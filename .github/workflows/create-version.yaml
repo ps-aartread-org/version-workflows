@@ -10,4 +10,4 @@ on:
 jobs:
 
   version-reusable-workflow:
-    uses: .github/workflows/version-workflow.yaml
+    uses: .github/workflows/version-workflow.yaml@main
